@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/streaka/intercom-cordova.git"
+    "url": "git+https://github.com/amrsh/intercom-cordova.git"
   },
   "keywords": [
     "intercom",
@@ -37,7 +37,7 @@
   "author": "Intercom",
   "license": "MIT License",
   "bugs": {
-    "url": "https://github.com/streaka/intercom-cordova/issues"
+    "url": "https://github.com/amrsh/intercom-cordova/issues"
   },
-  "homepage": "https://github.com/streaka/intercom-cordova#readme"
+  "homepage": "https://github.com/amrsh/intercom-cordova#readme"
 }
