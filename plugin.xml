@@ -4,7 +4,7 @@
     <author>Intercom</author>
     <license>MIT License</license>
     <description>Cordova plugin for Intercom for mobile</description>
-    <repo>https://github.com/streaka/intercom-cordova.git</repo>
+    <repo>https://github.com/amrsh/intercom-cordova.git</repo>
     <keywords>intercom,intercom-cordova</keywords>
 
     <engines>
